@@ -22,7 +22,7 @@ repository               : "yanwen-huang/home"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile0.png"
   name             : "Yanwen HUANG"
   pronouns         : "she/her"  
   bio              : "Sustainable urban development"
