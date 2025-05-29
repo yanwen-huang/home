@@ -22,8 +22,8 @@ repository               : "yanwen-huang/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image\headshot of yanwen.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "headshot of yanwen.jpg"
+  name             : "Yanwen HUANG"
   pronouns         : "she/her"  
   bio              : "Sustainable urban development"
   location         : "China"
