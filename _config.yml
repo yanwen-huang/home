@@ -27,8 +27,8 @@ author:
   pronouns         : "she/her/hers"  
   bio              : "Sustainable urban development | Urban governance | Low emission zone | Traffic decarbonization | Travel equity"
   location         : "China"
-  employer         : "Institute for Transportation & Development Policy"
-  uri              : # URL
+  employer         : "Institute for Transportation \r\n & Development Policy"
+  uri              : https://yanwen-huang.github.io/home
   email            : "yanwen.huang@itdp.org; yanwen-huang@outlook.com" 
 
   # Academic websites
