@@ -23,13 +23,13 @@ repository               : "home"
 author:
   # Biographic information
   avatar           : "profile0.png"
-  name             : "Yanwen HUANG"
+  name             : "Yanwen Huang"
   pronouns         : "she/her/hers"  
-  bio              : "Sustainable urban development & governance | Low emission zone | Traffic decarbonization | "
+  bio              : "Sustainable urban development | Urban governance | Low emission zone | Traffic decarbonization | Travel equity"
   location         : "China"
-  employer         : "ITDP"
+  employer         : "Institute for Transportation & Development Policy"
   uri              : # URL
-  email            : "yanwen.huang@itdp.org" 
+  email            : "yanwen.huang@itdp.org; yanwen-huang@outlook.com" 
 
   # Academic websites
   academia         : # URL
