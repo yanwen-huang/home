@@ -22,7 +22,7 @@ repository               : "home"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile0.png"
+  avatar           : "yanwen.png"
   name             : "Yanwen Huang"
   pronouns         : "she/her/hers"  
   bio              : "Sustainable urban development | Urban governance | Low emission zone | Traffic decarbonization | Travel equity"
@@ -214,9 +214,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+    # output: false
+    # permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
