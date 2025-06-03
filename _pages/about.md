@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a transportation engineer with a strong interest in urban and regional planning, as well as urban resilience. I have conducted transportation research in China, Tbilisi, Indonesia, Kiribati, Colombia, and other countries. My work includes leading low-carbon transportation planning projects and supporting countries in the Global South in their transition to sustainable, low-carbon transport systems.
-
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a transportation engineer at [Insitute for Transportation & Development Policy](http://www.itdp-china.org/enteam/?lang=1), with a strong interest in urban and regional planning, as well as urban resilience. I have conducted transportation research in China, Georgia, Indonesia, Kiribati, Colombia, and other countries. My work includes leading low-carbon transportation planning projects and supporting countries in the Global South in their transition to sustainable, low-carbon transport systems.
 
 A data-driven personal website
 ======
