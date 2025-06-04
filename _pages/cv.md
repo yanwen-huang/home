@@ -18,16 +18,20 @@ Education
 * M.S. in Transportation Planning and Management, Sun Yat-Sen University, 2022
 * B.S. in Traffic Engineer, Sun Yat-Sen University, 2019
 
-Work experience
+Professional experience
 ======
-* Summer 2022: Transportation Engineer
-  * Institute for Transportation and Development Policy
-  * Duties includes: Updates and improvements to template
+* June 2022 - Present: Transportation Engineer, Institute for Transportation and Development Policy
+  * Conducted in-depth and fact-based research on the current landscape of China's zero-emission transport
+  * Explored new topics such as AI application in urban mobility and transport-energy integration.
+  * Analyzed and summarize the experience, lessons, opportunities and challenges faced during the transition to zero-emission practices in the urban mobility sector.
+  * Compiled case studies that highlight key driving forces contributing to projects’ success and future recommendations.
+  * Processed and interpreted public data, created comprehensive graphics and charts focused on zero-emission transport.
 
-* Fall 2018: Research Assistant
-  * Sun Yat-Sen University
-  * Duties included: Merging pull requests
+* September 2018 - June 2022: Research Assistant, Sun Yat-Sen University
   * Supervisor: Prof. Deng Yuanchang
+  * Explore research topics: traffic participants' status detection, travel intention during COVID-19, air pollution prediction, etc.
+  * Design and conducted simulation and data experiments
+  * Transfer research insights into academic papers.
   
 Skills
 ======
