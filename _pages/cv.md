@@ -17,7 +17,6 @@ Education
 ======
 
 2022 | <i>Sun Yat-Sen University</i> | M.S. in <b>Transportation Planning and Management</b>
-
 2019 | <i>Sun Yat-Sen University</i> | B.S. in <b>Traffic Engineering</b>
 
 Professional experience
