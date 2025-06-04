@@ -10,8 +10,7 @@ tags:
 ---
 
 # 悉尼交通发展案例研究
-
-Yanwen Huang
+Author: Yanwen Huang
 
 ## 悉尼交通技术发展策略
 
