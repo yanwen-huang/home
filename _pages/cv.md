@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* Tel: +86-189-26118291
 * Email: yanwen-huang@outlook.com
-* Tel: +86-189-26118291; +64-020-4580829
 * LinkedIn: [Yanwen (Yinman) Huang](https://www.linkedin.com/in/yanwen-huang-yinman816)
 
 Education
@@ -57,10 +57,7 @@ Service and leadership
 
 Skills
 ======
-* GIS
-  * QGIS
-  * ArcGIS
-* Coding
-  * Matlab
-  * Python
-* Project management
+* Language: English (IELTS: 7.5), Chinese (Native), Cantonese (Native)
+* GIS：QGIS, ArcGIS
+* Coding: Matlab, Python
+* Data analytic: Stata, R
