@@ -2,7 +2,7 @@
 title: "A Hybrid Model Utilizing Principal Component Analysis and Artificial Neural Networks for Driving Drowsiness Detection"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-driving-drowsiness-1
+permalink: /publication/applied-science-2022
 date: 2022-05-30
 excerpt: ' In order to realize fast and accurate driving drowsiness detection using physiological data that can be collected non-intrusively, a hybrid model with principal component analysis and artificial neural networks was proposed in this study.'
 venue: 'Applied Science'
