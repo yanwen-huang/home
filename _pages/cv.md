@@ -20,14 +20,15 @@ Education
 
 Professional experience
 ======
-* June 2022 - Present: <b> Transportation Engineer </b>, <i> Institute for Transportation and Development Policy</i>
+* June 2022 - Present : <b> Transportation Engineer </b>, <i> Institute for Transportation and Development Policy</i>
   * Conducted in-depth and fact-based research on the current landscape of China's zero-emission transport
   * Explored new topics such as AI application in urban mobility and transport-energy integration.
   * Analyzed and summarize the experience, lessons, opportunities and challenges faced during the transition to zero-emission practices in the urban mobility sector.
   * Compiled case studies that highlight key driving forces contributing to projects’ success and future recommendations.
   * Processed and interpreted public data, created comprehensive graphics and charts focused on zero-emission transport.
-* September 2018 - June 2022: <b> Research Assistant </b>, <i> Sun Yat-Sen University</i>
-  * Supervisor: Prof. Deng Yuanchang
+
+* September 2018 - June 2022 : <b> Research Assistant </b>, <i> Sun Yat-Sen University</i>
+  * Supervisor: Prof. [Deng Yuanchang](https://ise.sysu.edu.cn/teacher/DengYuanchang)
   * Explore research topics: traffic participants' status detection, travel intention during COVID-19, air pollution prediction, etc.
   * Design and conducted simulation and data experiments
   * Transfer research insights into academic papers.
