@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-10-drowsiness-1
 excerpt: 'In order to reduce the time delay while ensuring the accuracy of fatigue identification, this research compared the classification results of support vector machine and artificial neural network.'
 date: 2021-10-22
 venue: '2021 6th International Conference on Transportation Information and Safety (ICTIS)'
