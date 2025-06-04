@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yanwen's CV"
+title: "Yanwen Huang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+* Email: yanwen-huang@outlook.com
+* Tel: +86-189-26118291 | +64-020-4580829
+* LinkedIn: [Yanwen (Yinman) Huang](https://www.linkedin.com/in/yanwen-huang-yinman816)
 
 Education
 ======
