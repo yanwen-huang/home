@@ -1,3 +1,14 @@
+---
+title: "Case study: Sydney's Transportation development strategy (In Chinese)"
+date: 2025-6-4
+permalink: /posts/sydney-tra-dev
+tags:
+  - public transit
+  - Sydney
+  - Transportation planning
+  - urban planning
+---
+
 # 悉尼交通发展案例研究
 
 交通与发展政策研究所（ITDP）
