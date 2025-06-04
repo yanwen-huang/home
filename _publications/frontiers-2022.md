@@ -1,11 +1,11 @@
 ---
-title: "A Hybrid Model Utilizing Principal Component Analysis and Artificial Neural Networks for Driving Drowsiness Detection"
+title: "Hybrid Data Mining Forecasting System Based on Multi- Objective Optimization and Selection Model for Air pollutants"
 collection: publications
 category: manuscripts
 permalink: /publication/frontiers-2022
-date: 2022-05-30
+date: 2022-12-15
 excerpt: 'In this study, a model selection forecasting system is proposed that consists of data mining, data analysis, model selection, and multi-objective optimized modules and effectively solves the problems of air pollutants monitoring.'
-venue: 'Applied Science'
+venue: 'Frontiers in Environmental Science'
 paperurl: 'https://doi.org/10.3389/fenvs.2021.761287'
 citation: '<b>Y.W. Huang</b>, Y.C. Deng, C. Wang, and T.L. Fu. &quot; Hybrid Data Mining Forecasting System Based on Multi- Objective Optimization and Selection Model for Air pollutants&quot;. <i>Frontiers in Environmental Science</i>, 2021, 9:761287'
 ---
