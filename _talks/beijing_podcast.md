@@ -1,7 +1,7 @@
 ---
 title: "Beijing’s escape from parking disaster"
 collection: talks
-type: "Tutorial"
+type: "Podcast"
 permalink: /talks/beijing_podcast
 venue: "Reinvesting Parking"
 date: 2023-04-01
