@@ -1,7 +1,7 @@
 ---
 title: "Case study: Sydney's Transportation development strategy (In Chinese)"
 date: 2025-6-4
-permalink: /posts/sydney-tra-dev
+permalink: /posts/sydney-tra-dev-2025
 tags:
   - public transit
   - Sydney
