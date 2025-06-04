@@ -15,8 +15,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Transportation Planning and Management, Sun Yat-Sen University, 2022
-* B.S. in Traffic Engineer, Sun Yat-Sen University, 2019
+* 2022 | <i>Sun Yat-Sen University</i> | M.S. in <b>Transportation Planning and Management</b>
+* 2019 | <i>Sun Yat-Sen University</i> | B.S. in <b>Traffic Engineering</b>
 
 Professional experience
 ======
