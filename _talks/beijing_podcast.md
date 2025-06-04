@@ -5,7 +5,7 @@ type: "Podcast"
 permalink: /talks/beijing_podcast
 venue: "Reinvesting Parking"
 date: 2023-04-01
-location: "Guangzhou, China"
+location: "Guangzhou-China | Singapore"
 ---
 
 [Listen here!](https://open.spotify.com/episode/4AZZHEjMZWsUjdIWcjkf8P?si=xJMgReu9QfOdLsEmJi9uAA)
