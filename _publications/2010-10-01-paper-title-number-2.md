@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-driving-drowsiness-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2022
+date: 2022-05-30
 venue: 'Applied Science'
 slidesurl: 'https://www.mdpi.com/2076-3417/12/12/6007'
 paperurl: 'https://mdpi-res.com/d_attachment/applsci/applsci-12-06007/article_deploy/applsci-12-06007-v2.pdf?version=1655259099'
