@@ -12,4 +12,3 @@ tags:
 This blog (In Chinese) is a case study of Sydney's transportation development strategies to support the research on the impact factors of public transport accessibility in Beijing.
 See full article [here](http://www.itdp-china.org/media/publications/Sydney%20Transportation%20Development.html).
 
----------
