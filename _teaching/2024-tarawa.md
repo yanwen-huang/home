@@ -8,7 +8,9 @@ date: 2024-06-30
 location: "Tarawa, Republic of Kiribati"
 ---
 
-### Position held: Vice project supervisor
+Position held: Vice project supervisor
+=====
+
 </br>
 
 **I. Research Design and Team Coordination**
