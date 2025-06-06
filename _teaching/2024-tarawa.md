@@ -22,6 +22,9 @@ To extract meaningful insights from the data, I harnessed the power of artificia
 
 Among these factors, a critical pain point emerged: a severe imbalance between supply and demand in the middle sections of bus routes. This finding was not only significant in understanding the current state of public transport in Tarawa but also served as a focal point for subsequent improvement strategies.
 
+<img src='/home/images/project-tarawa1.png'>
+<img src='/home/images/project-tarawa2.png'>
+
 **III. Route Optimization and Evaluation**
 
 In response to the identified key pain point, I took proactive steps to redefine traffic zones and optimize public transport routes in the Tarawa region. This involved a detailed assessment of population density, travel patterns, and existing infrastructure.
