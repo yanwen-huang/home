@@ -1,5 +1,5 @@
 ---
-title: "Investigating Public Transport Passenger Demand Insights in Tarawa, Republic of Kiribati"
+title: "Investigating Public Transport Passenger Demand Insights - Tarawa, Republic of Kiribati"
 collection: teaching
 type: "Public transport"
 permalink: /teaching/2024-tarawa
@@ -9,7 +9,6 @@ location: "Tarawa, Republic of Kiribati"
 ---
 
 Position held: Vice project supervisor
-=====
 
 **I. Research Design and Team Coordination**
 
