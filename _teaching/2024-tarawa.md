@@ -9,6 +9,7 @@ location: "Tarawa, Republic of Kiribati"
 ---
 
 ### Position held: Vice project supervisor
+</br>
 
 **I. Research Design and Team Coordination**
 
