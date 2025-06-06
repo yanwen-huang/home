@@ -11,8 +11,6 @@ location: "Tarawa, Republic of Kiribati"
 Position held: Vice project supervisor
 =====
 
-</br>
-
 **I. Research Design and Team Coordination**
 
 As the Project Manager for the Public Transport Passenger Demand Insights in Kiribati - Tarawa, I took on the crucial task of formulating a comprehensive research strategy. A mixed - method research approach was meticulously designed, encompassing an interview guide, a questionnaire, and a detailed research plan. This approach was tailored to capture a multi - faceted understanding of public transport passenger demand in the region.
