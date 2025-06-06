@@ -11,7 +11,6 @@ How do our minds and bodies react to specific events? How can we deepen our unde
 
 
 # What I do?
-
 ## Research
 My research began during my undergraduate studies at Sun Yat-Sen University, where I investigated taxi refusal behavior across different scenarios under the mentorship of Dr. DENG Yuanchang. Given the randomness in driver, the factors influencing taxi refusal vary significantly. My research sought to uncover common patterns behind their minds. By conducting on-board interviews, questionnaires, and field observations, I uncovered patterns in drivers’ choices, particularly their tendency to refused passengers with disabilities, intoxicated passengers, and those traveling to remote destinations. I developed a predictive model to forecast the likelihood of passenger refusal in different situations for better monitoring and management of the taxi industry. This project, which earned a best thesis award, marked my first experience designing and executing a study independently, encompassing the full research process—from designing and conducting field interviews and questionnaires to ground surveys and building models.
 
