@@ -26,7 +26,7 @@ I have conducted transportation research in China, Georgia, Indonesia, Kiribati,
 ### China
 
 ### Kiribati
-
+<br/><br/><img src='/home/images/tarawa1.png'>
 ### Georgia
 
 ### Indonesia
