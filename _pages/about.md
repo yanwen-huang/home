@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 How do our minds and bodies react to specific events? How can we deepen our understanding of "people" within a people-oriented development strategy? These questions have inspired my research journey and continue to drive my research. I explore how traffic participants perceive and interact with their environments and the role subtle interventions can play in transforming human-environment interactions. My ultimate goal is to promote transportation equity, diversity, and sustainability in urban settings.
-<br/><br/><img src='/home/images/tarawa2.jpeg'>
+<br/><br/><img src='/home/images/tarawa2.jpeg'><br/><br/>
 
 # What I do?
 ## Research
