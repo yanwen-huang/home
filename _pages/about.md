@@ -24,11 +24,11 @@ My research interest lies at the intersection of human behavior, urban environme
 I have conducted transportation research in China, Georgia, Indonesia, Kiribati, Colombia, and other countries. My work includes leading low-carbon transportation planning projects and supporting countries in the Global South in their transition to sustainable, low-carbon transport systems.
 
 ### China
-<br/><img src='/home/images/jinan1.jpeg'><br/>
+<img src='/home/images/jinan1.jpeg'><br/>
 <br/><img src='/home/images/jinan2.jpeg'><br/>
 <br/><img src='/home/images/anlu1.jpeg'><br/>
 ### Kiribati
-<br/><img src='/home/images/tarawa1.png'><br/>
+<img src='/home/images/tarawa1.png'><br/>
 ### Georgia
 
 ### Indonesia
