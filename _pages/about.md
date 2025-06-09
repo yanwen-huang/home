@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me: Mobility, equity, and the occasional DJI moment."
+title: "Mobility, equity, and the occasional DJI moment."
 author_profile: true
 redirect_from: 
   - /about/
