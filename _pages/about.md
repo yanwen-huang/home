@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me: A researcher? An Engineer? Or a Vloger."
+title: "About me: Mobility, equity, and the occasional DJI moment."
 author_profile: true
 redirect_from: 
   - /about/
