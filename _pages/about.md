@@ -9,7 +9,7 @@ redirect_from:
 
 How do our minds and bodies react to specific events? How can we deepen our understanding of "people" within a people-oriented development strategy? These questions have inspired my research journey and continue to drive my research. I explore how traffic participants perceive and interact with their environments and the role subtle interventions can play in transforming human-environment interactions. My ultimate goal is to promote transportation equity, diversity, and sustainability in urban settings.
 
-<br/><br/><img src='/home/images/tarawa2.jpeg'><br/><br/>
+<img src='/home/images/tarawa2.jpeg'><br/>
 
 My research interest lies at the intersection of human behavior, urban environments, and sustainable transportation. Witnessing the disparities in human-environment interactions across regions have inspired me to explore agent-based modeling techniques to simulate behavior patterns. Yet, it was during my work at third-tier cities in China and Kiribati that I realized that some challenges in transportation equity require in-depth academic research and collaboration with scholars, beyond what can be addressed through practical fieldwork alone. 
 
