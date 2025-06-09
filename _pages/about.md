@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yanwen's personal website!"
+title: "About me: A researcher? An Engineer? Or a Vloger."
 author_profile: true
 redirect_from: 
   - /about/
