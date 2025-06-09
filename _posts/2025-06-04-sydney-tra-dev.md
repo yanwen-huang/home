@@ -4,9 +4,8 @@ date: 2025-6-4
 permalink: /posts/sydney-tra-dev-2025
 excerpt: This working blog (In Chinese) is a phase summary case study of Sydney's transportation development strategies to support the research on the impact factors of public transport accessibility in Beijing. 
 tags:
-  - public transit
   - Sydney
-  - Transportation planning
+  - transport planning
   - urban planning
 ---
 
