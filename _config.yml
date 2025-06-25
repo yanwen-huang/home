@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "HOMEPAGE"
+title                    : "Yanwen (Yinman) Huang"
 title_separator          : "-"
 name                     : &name "Yanwen (Yinman) Huang"
 description              : &description "Transportation engineer at ITDP"
