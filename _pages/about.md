@@ -30,7 +30,7 @@ I have conducted transportation research in China, Georgia, Indonesia, Kiribati,
 ### Kiribati
 <img src='/home/images/tarawa1.png'><br/>
 ### Georgia
-
+<img src = 'https://yanwenswebsite.oss-cn-guangzhou.aliyuncs.com/Tbilisi_slope.png'>
 ### Indonesia
 
 ### Colombia
