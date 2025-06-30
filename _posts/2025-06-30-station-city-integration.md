@@ -38,6 +38,9 @@ Perhaps the most talked-about and innovative feature of the Huangmugang Hub is i
 
 Carved out of the B1 level—a space that in any other city would be relegated to utility rooms or retail kiosks—are fully functional **badminton courts and tennis practice walls**. This is a game-changer. It reclaims underutilized urban space for public health and wellness, embedding opportunities for physical activity directly into the fabric of daily life. Imagine finishing your workday, heading into the metro, and playing a quick, invigorating game of badminton before catching your train home. It's a powerful statement about a city's priorities, promoting a balanced lifestyle where health and convenience are not mutually exclusive.
 
+<br/><img src='https://yanwenswebsite.oss-cn-guangzhou.aliyuncs.com/MVIMG_20250629_135405.jpg'><br/>
+<br/><img src='https://yanwenswebsite.oss-cn-guangzhou.aliyuncs.com/MVIMG_20250629_135422.jpg'><br/>
+
 This "sports-in-station" concept is a pioneering move that redefines the very purpose of a transit hub. It's no longer just about moving people from point A to B; it's about enhancing their quality of life along the way. By making sports so incredibly accessible, Huangmugang encourages an active citizenry and transforms the daily commute into an opportunity for wellness.
 
 
