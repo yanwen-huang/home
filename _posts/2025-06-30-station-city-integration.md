@@ -1,7 +1,7 @@
 ---
 title: "More Than a Metro: How Shenzhen’s Huangmugang Station is Redefining Urban Living"
 date: 2025-06-24
-permalink: /posts/Station-City-Integration
+permalink: /posts/2025-06-Station-City-Integration
 excerpt: This blog post explores Shenzhen's revolutionary Huangmugang Hub, a landmark project that shatters the traditional concept of a metro station. Discover how it masterfully blends high-efficiency transport with public sports facilities and a light-filled 'urban living room,' offering a forward-thinking blueprint for city life worldwide.
 tags:
   - public transit
