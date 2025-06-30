@@ -1,6 +1,5 @@
-
 ---
-title: "Analysis and Outlook of Low-Carbon Policies in the Foreign Automotive Industry in 2023“
+title: "Analysis and Outlook of Low-Carbon Policies in the Foreign Automotive Industry in 2023"
 collection: publications
 category: books
 permalink: /publication/blue-paper-2024
