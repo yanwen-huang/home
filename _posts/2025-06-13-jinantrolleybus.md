@@ -9,4 +9,4 @@ tags:
   - electrification
   - China
 ---
-
+See more information on [ITDP's official website](https://itdp.org/2025/06/13/jinans-electric-trolleybuses-spark-a-transformation-for-china-stmagazine-36/).
